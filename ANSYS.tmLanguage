@@ -139,7 +139,7 @@
             </dict>
         </array>
         <key>name</key>
-        <string>APDL</string>
+        <string>APDL (ANSYS)</string>
         <key>scopeName</key>
         <string>source.apdl</string>
         <key>fileTypes</key>

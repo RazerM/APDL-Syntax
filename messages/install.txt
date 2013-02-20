@@ -1,0 +1,11 @@
+APDL (ANSYS) Syntax Highlighting
+
+Supported file extensions:
+ - *.mac
+ - *.ans
+ - *.ans.txt
+ - *.ansys.txt
+
+Manually set with View > Syntax > APDL (ANSYS)
+
+If there are other filename conventions in use, submit an enhancement Issue to https://github.com/RazerM/APDL-Syntax

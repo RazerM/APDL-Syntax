@@ -146,6 +146,8 @@
         <array>
             <string>mac</string>
             <string>ans</string>
+            <string>ansys.txt</string>
+            <string>ans.txt</string>
         </array>
         <key>foldingStopMarker</key>
         <string>^\s*(?i)(\*endif|\*enddo).*\s*$</string>

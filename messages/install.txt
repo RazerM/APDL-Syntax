@@ -1,5 +1,3 @@
-APDL (ANSYS) Syntax Highlighting
-
 Supported file extensions:
  - *.mac
  - *.ans

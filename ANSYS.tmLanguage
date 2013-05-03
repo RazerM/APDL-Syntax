@@ -148,6 +148,8 @@
             <string>ans</string>
             <string>ansys.txt</string>
             <string>ans.txt</string>
+            <string>ansys</string>
+            <string>apdl</string>
         </array>
         <key>foldingStopMarker</key>
         <string>^\s*(?i)(\*endif|\*enddo).*\s*$</string>

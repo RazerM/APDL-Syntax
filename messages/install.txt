@@ -3,7 +3,9 @@ Supported file extensions:
  - *.ans
  - *.ans.txt
  - *.ansys.txt
+ - *.ansys
+ - *.apdl
 
-Manually set with View > Syntax > APDL (ANSYS)
+You can manually set with View > Syntax > APDL (ANSYS)
 
 If there are other filename conventions in use, submit an enhancement Issue to https://github.com/RazerM/APDL-Syntax

@@ -4,12 +4,12 @@ Syntax definitions taken from [bguest/ANSYS-Textmate-Bundle][ATB] with permissio
 
 Supported file extensions:
 
- - `*.mac`
  - `*.ans`
  - `*.ans.txt`
- - `*.ansys.txt`
  - `*.ansys`
+ - `*.ansys.txt`
  - `*.apdl`
+ - `*.mac`
 
 You can manually set with <kbd>View</kbd> > <kbd>Syntax</kbd> > <kbd>APDL (ANSYS)</kbd>
 

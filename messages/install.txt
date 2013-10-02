@@ -1,10 +1,10 @@
 Supported file extensions:
- - *.mac
  - *.ans
  - *.ans.txt
- - *.ansys.txt
  - *.ansys
+ - *.ansys.txt
  - *.apdl
+ - *.mac
 
 You can manually set with View > Syntax > APDL (ANSYS)
 

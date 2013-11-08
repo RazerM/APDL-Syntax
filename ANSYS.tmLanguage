@@ -62,6 +62,10 @@
                 <string>#apdl_macros_keywords</string>
             </dict>
             <dict>
+                <key>include</key>
+                <string>#number</string>
+            </dict>
+            <dict>
                 <key>name</key>
                 <string>entity.character.money</string>
                 <key>match</key>
@@ -157,6 +161,15 @@
         <string>^\s*(?i)(\*if|\*do|\*dowhile).*\s*$</string>
         <key>repository</key>
         <dict>
+            <key>number</key>
+            <dict>
+                <key>comment</key>
+                <string>Valid numbers: 1, .1, 1.1, .1e1, 1.1e1, 1e1, 1i, 1j, 1e2j</string>
+                <key>match</key>
+                <string>(?&lt;=[\s\-\+\*\/\\=:\[\(\{,]|^)\d*\.?\d+([eE][+-]?\d)?([0-9&amp;&amp;[^\.]])*(i|j)?\b</string>
+                <key>name</key>
+                <string>constant.numeric.matlab</string>
+            </dict>
             <key>apdl_slash_keywords</key>
             <dict>
                 <key>captures</key>

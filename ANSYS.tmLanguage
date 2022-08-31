@@ -148,6 +148,7 @@
         <string>source.apdl</string>
         <key>fileTypes</key>
         <array>
+            <string>inp</string>
             <string>mac</string>
             <string>ans</string>
             <string>ansys.txt</string>
